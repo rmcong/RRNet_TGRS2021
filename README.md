@@ -4,9 +4,9 @@ Runmin Cong, Yumo Zhang, Leyuan Fang, Jun Li, Yao Zhao, and Sam Kwong, RRNet: Re
 
 Project: https://rmcong.github.io/proj_RRNet.html
 
-## Code and Results of RRNet:
+# Code and Results of RRNet:
 
-# Results:
+## Results:
   - We provide the resutls of our RRNet on EORSSD. 
 ```
 Baidu Cloud: https://pan.baidu.com/s/1Zt6PsB5zAl4Tts_4g7I9OQ  Password: 1234
