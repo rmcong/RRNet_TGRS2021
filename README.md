@@ -6,7 +6,6 @@ Project: https://rmcong.github.io/proj_RRNet.html
 
 ## Code and Results of RRNet:
 
-# RRNet
 # Results:
   - We provide the resutls of our RRNet on EORSSD. 
 ```
@@ -23,13 +22,13 @@ Baidu Cloud: https://pan.baidu.com/s/1RtS4JQaW3f0RTq6o7h512g  Password: 1234
 # Pytorch
 * Pytorch implementation of RRNet
 
-## Requirements
+# Requirements
 
 * Python 3.7
 * Pytorch 1.5.1
 * torchvision
 
-## Data Preprocessing
+# Data Preprocessing
 * We resize the images of original EORSSD dataset. For your evaluations, we also provide the corresponding resized images and labels. 
 If you test our model, please download the resized data, and put the data to `train_and_test/` folder.
 * Resized EORSSD:
@@ -37,7 +36,7 @@ If you test our model, please download the resized data, and put the data to `tr
 Baidu Cloud: https://pan.baidu.com/s/1CnbH_wSJBplo4UCMRInI3A  Password: 1234
 ```
 
-## Test
+# Test
 ```
 python test.py
 ```
