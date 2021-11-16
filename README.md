@@ -7,12 +7,12 @@ Project: https://rmcong.github.io/proj_RRNet.html
 ## Code and Results of RRNet:
 
 # RRNet
-* Results:
+# Results:
   - We provide the resutls of our RRNet on EORSSD. 
 ```
 Baidu Cloud: https://pan.baidu.com/s/1Zt6PsB5zAl4Tts_4g7I9OQ  Password: 1234
 ```
-* Pretrained model:
+# Pretrained model:
   - We provide our testing code. If you test our model, please download the pretrained model, unzip it, and put the checkpoint `RRNet_pretrained.pth` to `Checkpoints/trained/` folder 
   and put the pretrained backbone `backbone_r.pth` to `Checkpoints/warehouse/` folder.
   - Pretrained model download:
