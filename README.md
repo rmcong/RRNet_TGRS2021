@@ -16,7 +16,7 @@ Baidu Cloud: https://pan.baidu.com/s/1Zt6PsB5zAl4Tts_4g7I9OQ  Password: 1234
   and put the pretrained backbone `backbone_r.pth` to `Checkpoints/warehouse/` folder.
   - Pretrained model download:
 ```
-Baidu Cloud: https://pan.baidu.com/s/1RtS4JQaW3f0RTq6o7h512g  Password: 1234
+Baidu Cloud: https://pan.baidu.com/s/1WtzFCq8WmKdvQogRSCe_yg  Password: 1234
 ```
 
 ## Pytorch
