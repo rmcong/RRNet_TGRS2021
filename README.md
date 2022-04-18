@@ -1,6 +1,6 @@
 # RRNet_TGRS2021
 
-Runmin Cong, Yumo Zhang, Leyuan Fang, Jun Li, Yao Zhao, and Sam Kwong, RRNet: Relational reasoning network with parallel multi-scale attention for salient object detection in optical remote sensing images, IEEE Transactions on Geoscience and Remote Sensing, 2021.
+Runmin Cong, Yumo Zhang, Leyuan Fang, Jun Li, Yao Zhao, and Sam Kwong, RRNet: Relational reasoning network with parallel multi-scale attention for salient object detection in optical remote sensing images, IEEE Transactions on Geoscience and Remote Sensing, 2022.
 
 Project: https://rmcong.github.io/proj_RRNet.html
 
@@ -42,7 +42,7 @@ python test.py
 ```
 
 * You can find the results in the `'Outputs/Outputs_GR'` folder.
-* You can use a script to resize the results back to the same size as the original RGB-D image,  or just use the results with a size of 224*224 for evaluations. 
+* You can use a script to resize the results back to the same size as the original image,  or just use the results with a size of 224*224 for evaluations. 
 We did not find much differences for the evaluation results.
 
 
