@@ -49,14 +49,14 @@ We did not find much differences for the evaluation results.
 # If you use our RRNet, please cite our paper:
 
     @article{RRNet,
-  title={{RRNet}: Relational Reasoning Network with Parallel Multi-scale Attention for Salient Object Detection in Optical Remote Sensing Images},
-  author={Cong, Runmin and Zhang, Yumo and Fang, Leyuan and Li, Jun and Zhao, Yao and Kwong, Sam},
-  journal={IEEE Transactions on Geoscience and Remote Sensing},
-  volume={60},
+        title={{RRNet}: Relational Reasoning Network with Parallel Multi-scale Attention for Salient Object Detection in Optical Remote Sensing Images},
+        author={Cong, Runmin and Zhang, Yumo and Fang, Leyuan and Li, Jun and Zhao, Yao and Kwong, Sam},
+        journal={IEEE Transactions on Geoscience and Remote Sensing},
+        volume={60},
 	pages={1558-1644},
-  year={2022},
-  publisher={IEEE}
-}
+        year={2022},
+        publisher={IEEE}
+    }
 
 # Contact Us:
 If you have any questions, please contact Runmin Cong at rmcong@bjtu.edu.cn.
