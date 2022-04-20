@@ -1,6 +1,6 @@
 # RRNet_TGRS2021
 
-Runmin Cong, Yumo Zhang, Leyuan Fang, Jun Li, Yao Zhao, and Sam Kwong, RRNet: Relational reasoning network with parallel multi-scale attention for salient object detection in optical remote sensing images, IEEE Transactions on Geoscience and Remote Sensing, 2022.
+Runmin Cong, Yumo Zhang, Leyuan Fang, Jun Li, Yao Zhao, and Sam Kwong, RRNet: Relational reasoning network with parallel multi-scale attention for salient object detection in optical remote sensing images, IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1558-1644, 2022.
 
 Project: https://rmcong.github.io/proj_RRNet.html
 
@@ -59,4 +59,4 @@ We did not find much differences for the evaluation results.
     }
 
 # Contact Us:
-If you have any questions, please contact Runmin Cong at rmcong@bjtu.edu.cn.
+If you have any questions, please contact Runmin Cong (rmcong@bjtu.edu.cn) or Yumo Zhang (yumozhang@bjtu.edu.cn).
